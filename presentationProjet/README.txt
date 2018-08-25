@@ -1,0 +1,1 @@
+Projet dont l'objectif est de montrer les bases de git
